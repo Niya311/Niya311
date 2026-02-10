@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Niya311
+- 👋 Hi, I’m @Nowfiya
 - 👀 I’m interested in programming and technologies
 - 🌱 I’m currently learning masters in Cyber security 
 - 💞️ I’m looking to collaborate on 
